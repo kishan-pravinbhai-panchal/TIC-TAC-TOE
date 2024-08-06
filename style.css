@@ -37,6 +37,7 @@ h1 {
     border: none;
     font-size: 80px;
     color: #1d3557;
+    cursor: pointer;
 }
 #reset {
     margin-top: 35vh;
@@ -46,6 +47,7 @@ h1 {
    border: none;
    background-color: #f1faee;
    color:#1d3557;
+   cursor: pointer;
 }
 .m-container {
     display: flex;
