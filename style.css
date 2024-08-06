@@ -49,6 +49,9 @@ h1 {
    color:#1d3557;
    cursor: pointer;
 }
+#New-game {
+     cursor: pointer;
+}
 .m-container {
     display: flex;
     align-items: center;
